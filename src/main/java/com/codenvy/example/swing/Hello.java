@@ -1,4 +1,4 @@
-package com.example;
+package com.codenvy.example.swing;
 /*
  * HelloWorldSwing.java requires no other files. 
  */
