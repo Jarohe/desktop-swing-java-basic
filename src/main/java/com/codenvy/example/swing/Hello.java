@@ -1,4 +1,4 @@
-package com.example;
+package com.codenvy.example.swing;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -12,7 +12,6 @@ import javax.swing.*;
 public class Hello {
 
     public static void main(String[] args) {
-
         // Create a new JFrame
 
         JFrame frame = new JFrame();
