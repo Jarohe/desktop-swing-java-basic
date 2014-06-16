@@ -1,1 +1,2 @@
-{"type":"maven","properties":[{"name":"language.version","value":["1.6"]},{"name":"builder.name","value":["maven"]}, {"name":"runner.name","value":["JavaStandalone"]}]}
+{"type":"maven","properties":[{"name":"language.version","value":["1.6"]},{"name":"builder.name","value":["maven"]}, {"name":"runner.name","value":["JavaStandalone"]},{"name":"runn
+er.env_id","value":["gui"]},{"name":"framework","value":["javaStandaloneApp"]},{"name":"Java","value":["swing"]}]}
