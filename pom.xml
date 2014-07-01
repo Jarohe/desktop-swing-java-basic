@@ -18,6 +18,8 @@
                     <archive>
                         <manifest>
                             <mainClass>com.codenvy.example.swing.Hello</mainClass>
+                            <addClasspath>true</addClasspath>
+                            <classpathPrefix>lib/</classpathPrefix>
                         </manifest>
                     </archive>
                 </configuration>
