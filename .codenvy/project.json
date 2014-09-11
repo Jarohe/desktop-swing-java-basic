@@ -1,1 +1,1 @@
-{"attributes":{"runner.env_id":["gui"]},"projectTypeId":"maven","builder":"maven","runner":"java-standalone-default","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":null,"builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
+{"attributes":{"runner.env_id":["gui"]},"projectTypeId":"maven","builder":"maven","runner":"java-standalone-default","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":"gui","builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
