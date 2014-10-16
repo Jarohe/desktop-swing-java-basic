@@ -1,1 +1,1 @@
-{"type":"maven","attributes":{},"runners":{"default":"system:/java-standalone-default/gui","configs":{}},"builders":{"default":"maven"}}
+{"type":"maven","attributes":{},"runners":{"default":"system:/java/standalone/simple/gui","configs":{}},"builders":{"default":"maven"}}
