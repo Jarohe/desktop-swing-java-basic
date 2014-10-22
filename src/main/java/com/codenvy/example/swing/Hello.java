@@ -22,7 +22,7 @@ public class Hello {
 
         Image imageIcon = null;
         try {
-            URL url = new URL("http://docs.codenvy.com/wp-content/uploads/codenvy-header-logo1.png");
+            URL url = new URL("http://docs.codenvy-next.com/wp-content/uploads/logo_codenvy.png");
             imageIcon = ImageIO.read(url);
         } catch (IOException e) {
             e.printStackTrace();
