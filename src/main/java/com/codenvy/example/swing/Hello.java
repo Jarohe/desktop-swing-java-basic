@@ -22,7 +22,7 @@ public class Hello {
 
         Image imageIcon = null;
         try {
-            URL url = new URL("http://bonfab.io/wp-content/uploads/2016/02/200x231xlogo-eclipseche.png.pagespeed.ic.RHIRYiyG8e.png");
+            URL url = new URL("https://files.readme.io/JUNKpQWoS0GCl4MZDcNj_logo-eclipseche.png");
             imageIcon = ImageIO.read(url);
         } catch (IOException e) {
             e.printStackTrace();
